@@ -1,0 +1,5 @@
+pldmgr_v0.1.1.elf
+!3000
+nanodns.elf
+!5000
+sonic-loader.elf
